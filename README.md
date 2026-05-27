@@ -1,6 +1,8 @@
 # FlashStash 🚀
 A micro-service for instant file and text exchange on a local network.
 
+![FlashStash Interface](screenshots/main_screen.png)
+
 ## 📦 How to download and launch the portable version:
 1. Download the `FlashStash_Portable` archive.
 2. Unzip the archive into any convenient folder (preferably to your desktop).
