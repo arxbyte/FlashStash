@@ -1,8 +1,7 @@
 # FlashStash 🚀
 A local micro-service for instant file and text exchange within a single Wi-Fi / LAN network.
 
-![FlashStash](screenshots/FlashStash_icon_6_ Square.png)
-
+![FlashStashIco](screenshots/FlashStash_icon_6_ Square.png)
 ![FlashStash](screenshots/main_screen.png)
 
 ## 📦 How to download and launch the portable version:
